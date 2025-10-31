@@ -40,7 +40,7 @@ A simple yet powerful Notes App built using **Kotlin** for Android. This app all
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NotesApp.git
+git clone https://github.com/Anshit-Sony/NotesApp.git
 ```
 
 2. Open in Android Studio
